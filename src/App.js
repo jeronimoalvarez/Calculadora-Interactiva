@@ -1,5 +1,5 @@
 import './App.css';
-import logoFreeCodeCamp from './imagenes/freecodecamp-logo.png'
+import logo from './imagenes/logo.png'
 import { Boton } from './componentes/boton.jsx'
 import  Pantalla  from './componentes/pantalla.jsx'
 import  BotonClear  from './componentes/clear.jsx'
